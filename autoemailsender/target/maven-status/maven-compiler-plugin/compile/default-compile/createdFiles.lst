@@ -1,0 +1,5 @@
+com/emailservice/autoemailsender/Controllers.class
+com/emailservice/autoemailsender/AutoemailsenderApplication.class
+com/emailservice/autoemailsender/ExtractionOfEmailService.class
+com/emailservice/autoemailsender/EmailSenderService.class
+com/emailservice/autoemailsender/EmailService.class
